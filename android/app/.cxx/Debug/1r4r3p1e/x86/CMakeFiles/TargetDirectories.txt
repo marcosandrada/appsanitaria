@@ -1,0 +1,2 @@
+C:/Users/thewe/Desktop/appdonaciones/android/app/.cxx/Debug/1r4r3p1e/x86/CMakeFiles/edit_cache.dir
+C:/Users/thewe/Desktop/appdonaciones/android/app/.cxx/Debug/1r4r3p1e/x86/CMakeFiles/rebuild_cache.dir

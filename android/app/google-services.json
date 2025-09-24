@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380522077446",
+    "project_id": "appsanitaria-a2e74",
+    "storage_bucket": "appsanitaria-a2e74.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380522077446:android:ac73c88f51484e8b135287",
+        "android_client_info": {
+          "package_name": "com.mycompany.appdonaciones"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKH9teLPzBuBA6aKt46gLuB30cAJAkNiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
