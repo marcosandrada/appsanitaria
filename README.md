@@ -73,3 +73,4 @@ Está pensada para ejecutarse en **Android** (Android Studio) y es totalmente es
 
 Desarrollado por **marcosandrada**  
 Si quieres contactar, abre un **Issue** en GitHub o utiliza mis redes sociales.
+marcos.andrada.sanchez@gmail.com
